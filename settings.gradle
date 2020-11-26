@@ -1,0 +1,3 @@
+include ':kteasycep'
+include ':app'
+rootProject.name = "Easy Cep"
